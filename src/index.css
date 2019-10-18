@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(45deg, rgb(133, 28, 39) 0%, rgb(133, 28, 39) 1%,rgb(191, 40, 36) 1%, rgb(191, 40, 36) 15%,rgb(76, 15, 42) 15%, rgb(76, 15, 42) 38%,rgb(162, 34, 38) 38%, rgb(162, 34, 38) 55%,rgb(220, 46, 35) 55%, rgb(220, 46, 35) 62%,rgb(105, 21, 41) 62%, rgb(105, 21, 41) 63%,rgb(47, 9, 44) 63%, rgb(47, 9, 44) 69%,rgb(18, 3, 45) 69%, rgb(18, 3, 45) 100%);
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+form {
+  padding: 20px;
+  margin-top: 60px;
+}
+
+.form button, form h5{
+  margin: 20px 0;
+}
+
+html {
+  
+  background-size: cover;
+  height: auto;
+}
+
+.card {
+  padding: 0px;
+  margin: 0px;
+}
+
+.cards{
+  padding-top: 20px;
+  font-family: 'Red Hat Display', sans-serif;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  background: white;
+  color: black;
+}
+
+.card-content1{
+  background: white;
+  color: black;
+}
+
+.finances {
+  margin-top: 20px;
+  width: 80vw;
+  background: white;
+  border: 2px solid white;
+}
+
+.cards h2 {
+  font-size: 40px;
+  padding-bottom: 10px;
+  margin: 0px;
+}
+
+.row {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.title {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 40px;
+}
+
+.positive p{
+  color: green;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+
+.negative p{
+  color: red;
+}
+
+.roomates p{
+  margin-top: 0px;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 20px;
+}
+
+.overall h1 {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 40px;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.overall p {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 30px;
+  margin: 0px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.overall h2 {
+  margin: 0px;
+  padding-bottom: 20px;
+}
+
+.collect h2{
+  color: green;
+  text-align: center;
+}
+
+.payout h2{
+  color: red;
+  text-align: center;  
+}
+
+.reload {
+  color: red;
+  font-size: 20px;
+  padding-top: 5px;
+  margin: 0px;
+}
+
+.about-card h1{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 40px;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.about-title {
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 50px;
+  margin: 0px;
+}
+
+.about-contents p{
+  font-size: 20px;
+}
+
+.about-content p{
+  font-size: 20px;
+}
+
+.data {
+  color: green;
+}
+
+.about-contents {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.about-contents {
+  margin-top: 30px;
+  padding-bottom: 20px;
+  padding-right:30px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.deletebtn {
+  align-self: center;
+}
+
+.about-contents h2{
+  font-size: 20px;
+  color: red;
+  text-align: center;
+}
+
+.proj-content p{
+  font-size: 30px;
+  color: green;
+}
+
