@@ -1,6 +1,6 @@
 # My First React App!
 
-Hosted [here](https://homesplit-abb79.web.app/)
+Hosted [here](http://bitly.ws/8AsJ)
 
 ## About
 
