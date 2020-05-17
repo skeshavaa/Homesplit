@@ -14,7 +14,7 @@ I created this app in the summer of 2019. This was my first React App and it use
 
 ## Pictures
 
-![Login Page](https://i.imgur.com/vG3UvSH.jpg)
+![Login Page](https://i.imgur.com/95Sa5XG.jpg)
 ![Dashboard](https://i.imgur.com/VN3KnEV.jpg)
 
 
